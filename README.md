@@ -1,7 +1,7 @@
 # G3MINii.github.io
 
 **Mr.Sirimongkol Wongfu**
-/Pic/pf.jpg
+https://github.com/G3MINii/G3MINii.github.io/blob/master/Pic/pf.jpg
 
 **Security Administrator: SOC, Penetration tester, Digital Forensics**
 
