@@ -5,3 +5,4 @@
 - Login By Email<br/>
 - Connect To Social Network such Facebook, Twitter, Google Account<br/>
 
+โดยการ Authentication จะเป็นการใช้ Authentication 
