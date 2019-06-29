@@ -11,7 +11,7 @@
 ![GitHub_Logo](/Pic/medium5.PNG)	
 
 เมื่อคลิกลิงค์จะเป็นการเข้า่ระบบของ Medium
-![GitHub_Logo](/Pic/medium6.JPG)	
+![GitHub_Logo](/Pic/medium6.jpg)	
 
 โดยการ Authentication ผ่านระบบ Social Network จะเป็นการร้องขอการเชื่อมต่อในครั้งแรก ดังภาพ
 ![GitHub_Logo](/Pic/medium2.PNG)	
