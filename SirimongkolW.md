@@ -1,6 +1,6 @@
 # ***Requirement ID:*** V12.1
 
-## ***Requirement Name:*** File Upload Requirements#
+## ***Requirement Name:*** File Upload Requirements
 
 ***OTG #1:*** Test Upload of Malicious Files (OTG-BUSLOGIC-009)
 
